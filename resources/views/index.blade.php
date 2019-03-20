@@ -87,7 +87,7 @@
         <!-- Begin Page Content -->
         <div class="container-fluid">
 
-          <div class="alert alert-info text-center"><i class="fas fa-info-circle"></i> Sales Dashboard Demo - Created by <a href="https://www.upwork.com/fl/waqasmushtaq2">Waqas Mushtaq</a> - Source code available on <a href="https://github.com/wmushtaq/laravel-filtering-system">GitHub</a></div>
+          <div class="alert alert-info text-center"><i class="fas fa-info-circle"></i> Sales Dashboard Demo - Created by <a href="https://www.upwork.com/fl/waqasmushtaq2">Waqas Mushtaq</a> - Source code available on <a href="https://github.com/wmushtaq/laravel-sales-dashboard">GitHub</a></div>
 
           <!-- Page Heading -->
           <div class="d-sm-flex align-items-center justify-content-between mb-4">
